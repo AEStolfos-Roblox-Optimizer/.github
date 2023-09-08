@@ -1,7 +1,5 @@
 # AEStolfo's Roblox Client Optimizer
 
-ARCO tweaks FFlags to optimize your Roblox client.
-
 ## About ARCO
 Some things ARCO currently does:
 - Unlocks FPS
