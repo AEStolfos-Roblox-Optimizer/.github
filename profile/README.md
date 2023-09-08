@@ -1,5 +1,3 @@
-# AEStolfo's Roblox Client Optimizer
-
 ## About ARCO
 Some things ARCO currently does:
 - Unlocks FPS
