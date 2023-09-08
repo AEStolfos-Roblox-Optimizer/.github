@@ -13,7 +13,7 @@ Some things ARCO currently does:
 - Disables a large portion of client telemetry
 - Disables AbuseReportScreenshot
 - Enables font and texture item preloading
-- Enables FULL graphics quality options (21 instead of 10!)
+- Enables FULL graphics quality options (21 instead of 10)
 - Enables BatchAssetApi
 
 Some things I am planning for the project:
